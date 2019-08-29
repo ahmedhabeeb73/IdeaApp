@@ -1,0 +1,17 @@
+{
+  "name": "ideaappnode",
+  "version": "1.0.0",
+  "description": "idea app",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmed habeeb",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "nodemon": "^1.19.1"
+  }
+}
